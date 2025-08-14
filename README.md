@@ -59,3 +59,4 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
+Thus, the Association Rules for Employee dataset using Apriori Algorithm was successfully completed
